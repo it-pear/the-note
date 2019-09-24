@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
-	
+	<p>Привет, это мое приложение по добавлению заметок</p>
 	<div class="container">
 		<div class="row">
 			<div class="col">
