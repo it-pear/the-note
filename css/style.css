@@ -1,0 +1,67 @@
+body{
+	background-color: #EFF0F3 !important;
+}
+
+
+.container {
+	margin-top: 50px;
+	max-width: 420px !important;
+}
+
+form {
+	background: #2FCC9A;
+	border: 2px solid #228e6c;
+	border-radius: 10px;
+	padding: 20px 10px;
+}
+
+form button{
+	margin-top: 10px;
+	width: 100%;
+}
+
+#task {
+	width: 100%;
+	float: left;
+	margin-right: 5%;
+}
+
+ul{
+	padding-left: 0;
+}
+ul li{
+	list-style: none;
+	width: 100%;
+	background-color: white;
+	padding: 10px 15px;
+	border-radius: 5px;
+	margin-top: 15px;
+	font-weight: 600;
+	overflow: hidden;
+}
+
+ul li:hover{
+	background-color: #FCFCFC;
+}
+
+ul li button{
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
